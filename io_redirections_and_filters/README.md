@@ -1,0 +1,1 @@
+exercices redirections IO bash
